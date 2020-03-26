@@ -14,12 +14,13 @@ class _WorldTimeState extends State<WorldTime> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        initialRoute: '/',
-        routes: {
-          '/': (context) => Loading(),
-          '/home': (context) => Home(),
-          '/location': (context) => ChooseLocation(),
-        },
-      );
+      debugShowCheckedModeBanner: false,
+      initialRoute: '/',
+      routes: {
+        '/': (context) => Loading(),
+        '/home': (context) => Home(),
+        '/location': (context) => ChooseLocation(),
+      },
+    );
   }
 }
