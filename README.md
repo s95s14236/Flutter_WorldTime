@@ -1,2 +1,2 @@
 # Flutter_WorldTime
-A simple flutter worldTime app
+A simple flutter WorldTime app
