@@ -13,7 +13,7 @@ Taipei Time:
 
 New York Time:
 
-![Image](https://github.com/s95s14236/flutter_worldtime/blob/master/assets/lnewyork.png)
+![Image](https://github.com/s95s14236/flutter_worldtime/blob/master/assets/newyork.png)
 
 
 
